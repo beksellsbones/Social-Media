@@ -5,7 +5,7 @@ Instagram Mockups for JCTC's CAT program. Fall 2021.
 ![InstaMockupsCATP2021Fall-Hughes-4](https://user-images.githubusercontent.com/89484770/144164881-3260a4d7-b453-4333-b5a3-b5f6797b257e.png)
 
 
-[A Good Bunch- Student Show](https://user-images.githubusercontent.com/89484770/144163702-4c8e79da-0d54-4d0c-8853-25ad414390ad.png)
+![A Good Bunch- Student Show](https://user-images.githubusercontent.com/89484770/144165069-f3ff293e-dc9a-455f-a535-4877f7d1d377.png)
 
 
 ![Design for the Future](https://user-images.githubusercontent.com/89484770/144163717-f1a1ba0f-b7c6-419b-8006-18c98597d5e0.png)
